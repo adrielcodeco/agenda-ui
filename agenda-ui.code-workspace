@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "✨ agenda-ui",
+			"path": "."
+		},
+		{
+			"name": "📦 UI",
+			"path": "packages/agenda-ui"
+		},
+		{
+			"name": "📦 DB",
+			"path": "packages/agenda-ui-db"
+		},
+		{
+			"name": "📦 Express",
+			"path": "packages/agenda-ui-express"
+		}
+	],
+	"settings": {}
+}

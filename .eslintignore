@@ -1,0 +1,13 @@
+**/node_modules
+**/tests
+**/#
+**/coverage
+**/.vscode
+**/templates
+.github
+CONTRIBUTORS.md
+CHANGELOG.md
+
+packages/robot/public
+packages/robot/templates
+packages/robot/src/client/pace.min.js
